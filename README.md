@@ -2,7 +2,7 @@
 
 Designed to be a starter kit for new react apps.
 
-###Dependencies:
+### Dependencies:
 
 * React
 * Typescript
